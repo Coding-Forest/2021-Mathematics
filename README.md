@@ -12,7 +12,7 @@ Space for learning math through code
 
 <br />
 
-** See math**   
+**See math**   
 if you can see math, you can touch math, you can feel math!  
 
 1. The derivative as function by Ted Coe (https://www.geogebra.org/m/MeMdCUEm)
